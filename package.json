@@ -1,0 +1,29 @@
+{
+  "name": "newpage",
+  "version": "1.0.0",
+  "description": "webpage exercise containing Skyline GTR theme",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^1.2.0",
+    "node": "^10.8.0",
+    "sass": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristijanpranjic/skyline_gtr_website.git"
+  },
+  "keywords": [
+    "skylineGTR"
+  ],
+  "author": "Kristijan Pranjic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristijanpranjic/skyline_gtr_website/issues"
+  },
+  "homepage": "https://kristijanpranjic.github.io/skyline_gtr_website"
+}
